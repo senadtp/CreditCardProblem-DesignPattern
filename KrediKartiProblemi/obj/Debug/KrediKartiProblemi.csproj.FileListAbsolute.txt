@@ -1,0 +1,14 @@
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.csprojAssemblyReference.cache
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.csproj.CoreCompileInputs.cache
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\bin\Debug\KrediKartiProblemi.exe.config
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\bin\Debug\KrediKartiProblemi.exe
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\bin\Debug\KrediKartiProblemi.pdb
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.exe
+C:\Users\wyrex\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.pdb
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\bin\Debug\KrediKartiProblemi.exe.config
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\bin\Debug\KrediKartiProblemi.exe
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\bin\Debug\KrediKartiProblemi.pdb
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.csprojAssemblyReference.cache
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.csproj.CoreCompileInputs.cache
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.exe
+C:\Users\senad\Desktop\SenaAdatepe\KrediKartiProblemi\KrediKartiProblemi\obj\Debug\KrediKartiProblemi.pdb
